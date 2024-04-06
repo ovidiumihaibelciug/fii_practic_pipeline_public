@@ -17,7 +17,7 @@ module "s3-terraform-state" {
   source  = "cloudposse/s3-bucket/aws"
   version = "3.1.3"
 
-  bucket_name        = "s3-terraform-state-fii-practic-ovidiu1231231231"
+  bucket_name        = "s3-terraform-state-fii-practic-ovidiu1231231231asda1"
   versioning_enabled = true
 }
 
